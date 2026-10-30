@@ -74,3 +74,5 @@ As I continue learning web development, I plan to improve this project by adding
 This is part of my learning journey in Full Stack Development and my transition into a career in technology.
 
 I'm currently building my programming skills through hands-on projects, learning HTML, CSS, and JavaScript, and gradually expanding my portfolio.
+
+Project updated using VS Code.
